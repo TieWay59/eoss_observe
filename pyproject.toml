@@ -14,6 +14,10 @@ polars = "^0.20.2"
 altair = "^5.2.0"
 vega-datasets = "^0.9.0"
 matplotlib = "^3.8.2"
+# 用于 JupyterChart 正常展示 chart cell
+anywidget = "^0.8.1"
+# 用于导出图表（不要使用 altair-save 了，不支持 5.0）
+vl-convert-python = "^1.2.0"
 
 
 [tool.poetry.group.dev.dependencies]
