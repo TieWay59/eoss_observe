@@ -1,10 +1,12 @@
 # 企业开源洞察
 
-## exmaple
+## 结果展示
 
-![visualization](eoss_observe/visualization.png)
+![openrank_chinese_bump_chart](eoss_observe/openrank_chinese_bump_chart.png)
 
-## 项目结构
+![openrank_global_bump_chart](eoss_observe/openrank_global_bump_chart.png)
+
+## 项目结构（预想）
 
 ```text
 project_name/
